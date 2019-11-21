@@ -7,7 +7,7 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper
   - api: node js
   - database: mogodb
 - develop api side to have get and post method for api/meetups
-- develop basic app frame to get all meetups info.
+- develop basic app frame to get all meetups info in react native.
 - Note: the repo has all the code and I ignore the node_modules. SO if you want to run the part 1 project, need to configure node_nodules first
 - Problems I met:
   - no mogodb database installed first
