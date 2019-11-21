@@ -16,3 +16,6 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper
 - reference [https://www.youtube.com/watch?v=qmNPpoVkY2Y]
 
 
+## Any questions, please make a issue for that!
+
+
