@@ -15,7 +15,14 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper. It contains
 
 - reference [https://www.youtube.com/watch?v=qmNPpoVkY2Y]
 
-## part 2-15 coming soon !--
+## Part 2: set up a new schema and new route relate to group.
+- Defintion of group is that meetup is created under the group
+- api/groups/:groupId/meetups/new
+- Problem I met
+  - could not push meetups into group.meetups since push is not supported in the mongodb [https://stackoverflow.com/questions/48607918/mongoerror-unknown-modifier-pushall-in-node-js]
+- reference [https://www.youtube.com/watch?v=_Mb-Q_A9ofU]
+
+## part 3-15 coming soon !--
 
 ## Any questions, please make a issue for that!
 
