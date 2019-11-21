@@ -1,5 +1,5 @@
 # Build-a-meetup-tutorial
-React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper
+React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper. It contains 15 parts
 
 ## Part 1: set up env and develop basic workflow
 - set up env
@@ -15,6 +15,7 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper
 
 - reference [https://www.youtube.com/watch?v=qmNPpoVkY2Y]
 
+## part 2-15 coming soon !--
 
 ## Any questions, please make a issue for that!
 
