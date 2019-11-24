@@ -25,7 +25,10 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper. It contains
 ## part 3-15 coming soon !--
 
 ## Api
-- post : localhost:3000/api/meetups
+- create a new meetup without groups | post : localhost:3000/api/meetups
+- get all meetups | get  : localhost:3000/api/meetups
+- create a new group | post : localhost:3000/api/groups/new
+- create a new meetup under groups | post: localhost:3000/api/groups/:groupId/meetups/new
 ## Any questions, please make a issue for that!
 
 
