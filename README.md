@@ -22,6 +22,9 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper. It contains
   - could not push meetups into group.meetups since push is not supported in the mongodb [https://stackoverflow.com/questions/48607918/mongoerror-unknown-modifier-pushall-in-node-js]
 - reference [https://www.youtube.com/watch?v=_Mb-Q_A9ofU]
 
+## Part 3:
+
+- Problem: Network error in axios
 ## part 3-15 coming soon !--
 
 ## Api
