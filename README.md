@@ -24,6 +24,8 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper. It contains
 
 ## part 3-15 coming soon !--
 
+## Api
+- post : localhost:3000/api/meetups
 ## Any questions, please make a issue for that!
 
 
