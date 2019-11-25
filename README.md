@@ -22,7 +22,7 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper. It contains
   - could not push meetups into group.meetups since push is not supported in the mongodb [https://stackoverflow.com/questions/48607918/mongoerror-unknown-modifier-pushall-in-node-js]
 - reference [https://www.youtube.com/watch?v=_Mb-Q_A9ofU]
 
-## Part 3:
+## Part 3: create basic front end with react native: has one tab only and contains the different cards
 
 - Problem: Network error in axios (I am using android emulator in aprt 3)
   - solution: Basically, Android emulator by default does not allow localhost, so either config it(hard way) or replace localhost wiht your LAN(easy way). And it will work like charm  https://stackoverflow.com/questions/38418998/react-native-fetch-network-request-failed
