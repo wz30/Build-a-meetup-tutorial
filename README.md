@@ -27,6 +27,7 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper. It contains
 - Problem: Network error in axios (I am using android emulator in aprt 3)
   - solution: Basically, Android emulator by default does not allow localhost, so either config it(hard way) or replace localhost wiht your LAN(easy way). And it will work like charm  https://stackoverflow.com/questions/38418998/react-native-fetch-network-request-failed
 - rederence for map(meetup, i)=>  https://reactjs.org/docs/lists-and-keys.html
+- layout reference : https://facebook.github.io/react-native/docs/layout-props
 ## part 4-15 coming soon !--
 
 ## Api
