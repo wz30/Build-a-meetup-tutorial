@@ -28,7 +28,12 @@ React-Native &amp; Node Tutorial - Build a Meetup app from EQuimper. It contains
   - solution: Basically, Android emulator by default does not allow localhost, so either config it(hard way) or replace localhost wiht your LAN(easy way). And it will work like charm  https://stackoverflow.com/questions/38418998/react-native-fetch-network-request-failed
 - rederence for map(meetup, i)=>  https://reactjs.org/docs/lists-and-keys.html
 - layout reference : https://facebook.github.io/react-native/docs/layout-props
-## part 4-15 coming soon !--
+## Part 4: practise react navigation + change localhost to real local ip address
+- It is hard to keep consistent with youtube video since some class or functions are deprecated in React-navigation. My suggestion is that just get the main idea from the video and implement by your self.
+- offical doc is good reference https://reactnavigation.org/en/
+- For my code later, I tracked them in another repo: meetup-mobile https://github.com/wz30/meetupme-mobile
+
+part 4-15 coming soon !--
 
 ## Api
 - create a new meetup without groups | post : localhost:3000/api/meetups
