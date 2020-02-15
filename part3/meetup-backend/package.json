@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "mongoose": "4.7.7",
     "morgan": "^1.9.1",
-    "yarn": "^1.19.2"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "eslint-config-equimper": "^2.2.2",
